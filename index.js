@@ -21,7 +21,7 @@ function divide(a, b){
 let n1=1;
 
 function add5(){
-  n1 = 5;
+  n1 = n1 + 5;
 }
 add5()
 console.log(n1);
