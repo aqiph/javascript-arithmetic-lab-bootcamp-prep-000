@@ -18,3 +18,9 @@ function divide(a, b){
   return a/b
 }
 
+//inc(n)
+function inc(n){
+  
+}
+
+
