@@ -20,11 +20,11 @@ function divide(a, b){
 
 //inc(n)
 function inc(n){
-  return n++
+  return ++n
 }
 
 //dec(n)
 function dec(n){
-  return n--
+  return --n
 }
 
