@@ -20,10 +20,11 @@ function divide(a, b){
 
 n1 = 10;
 var n2 = 10;
-function add1(){
+function add5(){
   n1 += 5;
   n2 += 5;
 }
+function add5()
 console.log(n1);
 console.log(n2);
 
