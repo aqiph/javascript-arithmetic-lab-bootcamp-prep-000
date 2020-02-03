@@ -29,6 +29,7 @@ console.log(n1);
 
 var n2=1;
 {
+  var n2 = 2;
   n2 = n2 + 5;
 }
 console.log(n2);
