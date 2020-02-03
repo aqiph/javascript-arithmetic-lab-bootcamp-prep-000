@@ -18,10 +18,10 @@ function divide(a, b){
   return a/b
 }
 
-//n1 = 10;
+let n1;
 
 function add5(){
-  let n1 = 10;
+  n1 = 10;
   n1 = n1 + 5;
 }
 add5()
