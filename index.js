@@ -18,7 +18,7 @@ function divide(a, b){
   return a/b
 }
 
-let n1;
+let n1=9;
 
 function add5(){
   n1 = 10;
