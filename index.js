@@ -24,7 +24,7 @@ function add5(){
   n1 = 10;
   n1 = n1 + 5;
 }
-//add5()
+add5()
 console.log(n1);
 
 
