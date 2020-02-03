@@ -19,12 +19,12 @@ function divide(a, b){
 }
 
 n1 = 10;
-//var n2 = 10;
+var n2 = 10;
 function add5(){
   n1 += 5;
-//  n2 += 5;
+  n2 += 5;
 }
 add5()
 console.log(n1);
-//console.log(n2);
+console.log(n2);
 
