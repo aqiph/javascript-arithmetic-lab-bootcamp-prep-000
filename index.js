@@ -3,8 +3,8 @@ function add(a, b){
   return a+b
 }
 
-//substract(a,b)
-function substract(a, b){
+//subtracts(a,b)
+function subtracts(a, b){
   return a-b
 }
 
@@ -30,7 +30,7 @@ function dec(n){
 
 //makeInt(n)
 function makeInt(n){
-  return parseInt(n)
+  return parseInt(n, 10)
 }
 
 //preserveDecimal(n)
