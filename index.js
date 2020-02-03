@@ -18,11 +18,12 @@ function divide(a, b){
   return a/b
 }
 
-n1 = 5;
-var n2 = 5;
+
 function add1(){
-  n1 = n1 + 1;
-  n2 = n2 + 1;
+  n1 = 5;
+  var n2 = 5;
+  n1 += 1;
+  n2 += 1;
 }
 console.log(n1);
 console.log(n2);
