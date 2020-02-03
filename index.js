@@ -18,7 +18,7 @@ function divide(a, b){
   return a/b
 }
 
-let n1;
+var n1;
 
 function add5(){
   n1 = n1 + 5;
@@ -26,7 +26,7 @@ function add5(){
 add5()
 console.log(n1);
 
-let n2;
+var n2;
 {
   n2 = n2 + 5;
 }
